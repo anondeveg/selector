@@ -1,0 +1,43 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Build/packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# Logs and runtime
+*.log
+errors.txt
+*.pid
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project outputs
+results/
+REQUIRMENTS/
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/

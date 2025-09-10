@@ -1,0 +1,3 @@
+https://alpha.example.com/path/file.php?id=123&name=john
+https://beta.gov.rw/dir/page.asp?pid=77
+https://www.example.co.za/dir/app.jsp?param=value

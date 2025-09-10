@@ -1,0 +1,3 @@
+https://example.com/search.php?q=test&x=1
+https://site.org/index.php?foo=bar&baz=1
+https://noquery.example.com/page

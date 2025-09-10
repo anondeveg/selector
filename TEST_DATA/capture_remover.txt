@@ -1,0 +1,4 @@
+u1@example.com:pw1 extra capture data
+u2@example.com:pw2 more data
+badlinewithoutcolon
+u3@example.com:pw3

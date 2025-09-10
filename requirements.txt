@@ -1,0 +1,7 @@
+beautifulsoup4==4.13.5
+colorama==0.4.6
+discord.py==2.6.3
+download==0.3.5
+matplotlib==3.10.6
+my_fake_useragent==0.2.1
+Requests==2.32.5

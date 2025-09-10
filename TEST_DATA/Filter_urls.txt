@@ -1,0 +1,4 @@
+https://www.google.com/search?q=test
+https://example.com/page
+https://www.bing.com/ck/a?!&&p=
+https://useful.site/resource

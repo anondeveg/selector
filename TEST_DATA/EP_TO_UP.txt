@@ -1,0 +1,2 @@
+user1@mail.com:pw1
+user.two@mail.com:pw2

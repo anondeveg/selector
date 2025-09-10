@@ -1,0 +1,4 @@
+x@gmail.com:1
+y@yahoo.com:2
+z@gmail.com:3
+w@outlook.com:4
