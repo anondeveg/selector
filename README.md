@@ -1,7 +1,8 @@
-# S3lect0r – SQL Injection Pentest Toolkit 
+# S3lect0r – SQL Injection Pentest Toolkit (ported from my another account)
 
 S3lect0r is a lightweight SQL injection reconnaissance and triage toolkit focused on rapid URL screening. It features a fast SQLI Scanner for pentest workflows, supported by utilities for list preparation (combo/URL cleaning, sorting, deduping) and basic parsing. The app is modular, cross-platform (Linux/Windows), and configurable via JSON.
 
+# THIS PROJECT WAS DEVELOPED 2 YEARS AGO. ItS NO LONGER MAINTAINED
 ## Highlights
 - SQL Injection Scanner: quick triage of URL lists to surface likely SQL injection entry points with live stats (CPM, counts) and categorized hit files
 - URL and list utilities: cleaner, reverser, sorter, shuffle, remove dupes, line counter, LQ→HQ
